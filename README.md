@@ -96,6 +96,3 @@ See the [docs](https://docs.rs/gemini-sdk) for full API details.
 
 Contributions welcome! Please open issues or PRs on GitHub.
 
-## License
-
-MIT License
